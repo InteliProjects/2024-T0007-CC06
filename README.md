@@ -15,19 +15,19 @@ Otimizar a roteirização de leituristas de hidrômetros residenciais aumentando
 ## 💻 Projetos Desenvolvidos: 
 
 - Grupo 1 - Grupo 1
-  - Link do repositório: https://github.com/InteliProjects/2024-T0007-CC06-G01
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T07-CC06-G01
 
 - Grupo 2 - Onda
-  - Link do repositório: https://github.com/InteliProjects/2024-T0007-CC06-G02
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T07-CC06-G02
 
 - Grupo 3 - E6eu
-  - Link do repositório: https://github.com/InteliProjects/2024-T0007-CC06-G03
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T07-CC06-G03
 
 - Grupo 4 - Aegis
-  - Link do repositório: https://github.com/InteliProjects/2024-T0007-CC06-G04
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T07-CC06-G04
 
 - Grupo 5 - O.V.O
-  - Link do repositório: https://github.com/InteliProjects/2024-T0007-CC06-G05
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T07-CC06-G05
 
 - Grupo 6 - Aegeo
-  - Link do repositório: https://github.com/InteliProjects/2024-T0007-CC06-G06
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T07-CC06-G06
